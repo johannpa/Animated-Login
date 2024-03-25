@@ -58,3 +58,11 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.form {
+  position: absolute;
+  z-index: 5;
+  background: #28292d;
+  inset: 2px;
+  border-radius: 8px;
+}
