@@ -132,3 +132,8 @@ body {
 .inputBox input:focus ~ i {
   height: 44px;
 }
+
+.links {
+  display: flex;
+  justify-content: space-between;
+}
