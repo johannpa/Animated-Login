@@ -144,3 +144,8 @@ body {
   color: #8f8f8f;
   text-decoration: none;
 }
+
+.links a:hover,
+.links a:nth-child(2) {
+  color: #45f3ff;
+}
